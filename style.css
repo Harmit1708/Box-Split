@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.square{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 600px;
+    width: 600px;
+    border: 1px solid black;
+}
+
